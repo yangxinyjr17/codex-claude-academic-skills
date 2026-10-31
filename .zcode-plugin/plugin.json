@@ -1,0 +1,8 @@
+{
+  "name": "zhongwen-keyan-skill",
+  "version": "0.1.0",
+  "description": "Chinese-first academic research skills: paper writing & polishing, academic Word/PPT deliverables, and scientific computing (MATLAB/Python).",
+  "author": { "name": "zLanqing (MIT)", "url": "https://github.com/zLanqing/codex-claude-academic-skills" },
+  "skills": ["./research-writing-skill", "./office-academic-skill", "./scientific-toolkit-skill"],
+  "license": "MIT"
+}
