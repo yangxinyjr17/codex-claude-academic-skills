@@ -1,0 +1,16 @@
+{
+  "name": "zhongwen-keyan",
+  "owner": { "name": "yangxinyjr17" },
+  "plugins": [
+    {
+      "name": "zhongwen-keyan-skill",
+      "source": "./",
+      "version": "0.1.0",
+      "displayName": "中文科研skill",
+      "displayName_i18n": { "zh-CN": "中文科研skill" },
+      "description": "Chinese-first academic research skills: paper writing, academic Word/PPT, scientific computing.",
+      "description_i18n": { "zh-CN": "中文科研技能包：论文写作与润色、文献阅读报告与学术 Word/PPT 生成、MATLAB/Python 科研计算与期刊级配图。" },
+      "category": "productivity"
+    }
+  ]
+}
